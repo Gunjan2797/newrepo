@@ -7,6 +7,8 @@ class SwapNumbers
    {
       int x, y, temp;
       System.out.println("Enter x and y");
+      System.out.println("Hey");
+
       Scanner in = new Scanner(System.in);
      
       x = in.nextInt();
